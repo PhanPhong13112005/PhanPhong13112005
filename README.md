@@ -59,9 +59,6 @@
   <a href="https://github.com/PhanPhong13112005">
     <img height="180em" src="https://streak-stats.demolab.com?user=PhanPhong13112005&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/PhanPhong13112005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhong13112005&layout=compact&theme=radium&hide_border=true&border_radius=10&ignore_cache=1" />
-  </a>
 </div>
 
 ---
