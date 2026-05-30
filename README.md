@@ -17,6 +17,7 @@
 ### 💻 Về bản thân tôi
 
 * 🎯 **Mục tiêu hiện tại:** Xây dựng các ứng dụng di động mượt mà với **Flutter/Dart** và tối ưu quy trình doanh nghiệp bằng **Odoo**.
+* 🎓 **Học vấn:** Đang học tập và nghiên cứu các môn chuyên ngành CNTT tại **Đại học Đại Nam**.
 * 📚 **Đang nghiên cứu:** Tích hợp AI vào các sản phẩm thực tế (như dự án Magic English sử dụng Ollama API) và quản trị máy chủ (VPS/Linux).
 * 🤝 **Sẵn sàng hợp tác:** Các dự án mã nguồn mở, phát triển ứng dụng giáo dục hoặc hệ thống quản lý nhân sự.
 
@@ -40,10 +41,10 @@
 ### 🔧 Công cụ & Ngôn ngữ lập trình
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,php,html,css,mysql,git,github,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,php,html,css,git,github,docker&perline=9" />
   <br><br>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server_2025-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 ---
@@ -56,11 +57,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhanPhong13112005&show_icons=true&theme=radium&hide_border=true&border_radius=10&cache_seconds=60" />
+  <a href="https://github.com/PhanPhong13112005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhanPhong13112005&show_icons=true&theme=radium&hide_border=true&border_radius=10&v=1" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhong13112005&layout=compact&theme=radium&hide_border=true&border_radius=10&cache_seconds=60" />
+  <a href="https://github.com/PhanPhong13112005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhong13112005&layout=compact&theme=radium&hide_border=true&border_radius=10&v=1" />
   </a>
 </div>
 
