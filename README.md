@@ -28,7 +28,7 @@
   <a href="https://github.com/PhanPhong13112005">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:email_cua_ban@gmail.com">
+  <a href="mailto:luuphongphan12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/">
