@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Phong-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Mobile App Developer | ERP System Enthusiast | IT Student</h3>
+  <h3>Backend Developer | Tech Enthusiast | IT Student</h3>
   
   <br>
   <p>
@@ -16,10 +16,10 @@
 
 ### 💻 Về bản thân tôi
 
-* 🎯 **Mục tiêu hiện tại:** Xây dựng các ứng dụng di động mượt mà với **Flutter/Dart** và tối ưu quy trình doanh nghiệp bằng **Odoo**.
-* 🎓 **Học vấn:** Đang học tập và nghiên cứu các môn chuyên ngành CNTT tại **Đại học Đại Nam**.
-* 📚 **Đang nghiên cứu:** Tích hợp AI vào các sản phẩm thực tế (như dự án Magic English sử dụng Ollama API) và quản trị máy chủ (VPS/Linux).
-* 🤝 **Sẵn sàng hợp tác:** Các dự án mã nguồn mở, phát triển ứng dụng giáo dục hoặc hệ thống quản lý nhân sự.
+* 🎯 **Mục tiêu hiện tại:** Xây dựng hệ thống Backend ổn định, phát triển API RESTful và tối ưu hóa cơ sở dữ liệu.
+* 🎓 **Học vấn:** Sinh viên chuyên ngành Công nghệ Thông tin tại **Đại học Đại Nam**.
+* 📚 **Đang tập trung:** Nâng cao tư duy logic và kiến trúc hệ thống với **Java, C#, Python** và mở rộng sang mảng giao diện với **Vue.js**.
+* ⚙️ **Kỹ năng bổ trợ:** Quản trị máy chủ (VPS/Linux), Docker và nghiên cứu các hệ thống quản trị doanh nghiệp (ERP/Odoo).
 
 <br>
 
@@ -38,12 +38,11 @@
 
 ---
 
-### 🔧 Công cụ & Ngôn ngữ lập trình
+### 🔧 Ngôn ngữ & Cơ sở dữ liệu
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,php,html,css,git,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,py,js,vue,mysql,git,github,docker&perline=10" />
   <br><br>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server_2025-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
