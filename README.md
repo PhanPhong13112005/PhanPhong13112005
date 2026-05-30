@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PhanPhong13112005/PhanPhong13112005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Phong-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-Here are some ideas to get you started:
+  <h1>🌌 Welcome to my universe!</h1>
+  <h3>Mobile App Developer | ERP System Enthusiast | IT Student</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=PhanPhong13112005&color=02569B" alt="Profile Views" />
+  </p>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Về bản thân tôi
+
+* 🎯 **Mục tiêu hiện tại:** Xây dựng các ứng dụng di động mượt mà với **Flutter/Dart** và tối ưu quy trình doanh nghiệp bằng **Odoo**.
+* 📚 **Đang nghiên cứu:** Tích hợp AI vào các sản phẩm thực tế (như dự án Magic English sử dụng Ollama API) và quản trị máy chủ (VPS/Linux).
+* 🤝 **Sẵn sàng hợp tác:** Các dự án mã nguồn mở, phát triển ứng dụng giáo dục hoặc hệ thống quản lý nhân sự.
+
+<br>
+
+### 📧 Liên hệ với tôi
+<div align="center">
+  <a href="https://github.com/PhanPhong13112005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:email_cua_ban@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+### 🔧 Công cụ & Ngôn ngữ lập trình
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,php,html,css,mysql,git,github,docker&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</div>
+
+---
+
+### 📊 Thống kê hoạt động GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanPhong13112005&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhanPhong13112005&show_icons=true&theme=radium&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhong13112005&layout=compact&theme=radium&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/PhanPhong13112005/PhanPhong13112005/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
