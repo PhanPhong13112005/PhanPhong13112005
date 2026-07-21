@@ -1,73 +1,69 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20I'm%20Phong-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+# Phan Luu Phong
 
-  <h1>🌌 Welcome to my universe!</h1>
-  <h3>Backend Developer | Tech Enthusiast | IT Student</h3>
-  
-  <br>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=PhanPhong13112005&color=02569B" alt="Profile Views" />
-  </p>
-  
+### Backend Developer Intern | C# · ASP.NET Core · PostgreSQL · Docker
+
+Information Technology student at **Dai Nam University** · Expected graduation: **2027**
+
+[![Email](https://img.shields.io/badge/Email-luuphongphan12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luuphongphan12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PhanPhong13112005-181717?style=flat-square&logo=github)](https://github.com/PhanPhong13112005)
+[![Profile Views](https://komarev.com/ghpvc/?username=PhanPhong13112005&style=flat-square)](https://github.com/PhanPhong13112005)
+
 </div>
 
----
+## About me
 
-### 💻 Về bản thân tôi
+I am an Information Technology student focused on **backend development with .NET**. I enjoy designing REST APIs, modelling relational databases, containerizing services and solving integration issues between backend components.
 
-* 🎯 **Mục tiêu hiện tại:** Xây dựng hệ thống Backend ổn định, phát triển API RESTful và tối ưu hóa cơ sở dữ liệu.
-* 🎓 **Học vấn:** Sinh viên chuyên ngành Công nghệ Thông tin tại **Đại học Đại Nam**.
-* 📚 **Đang tập trung:** Nâng cao tư duy logic và kiến trúc hệ thống với **Java, C#, Python** và mở rộng sang mảng giao diện với **Vue.js**.
-* ⚙️ **Kỹ năng bổ trợ:** Quản trị máy chủ (VPS/Linux), Docker và nghiên cứu các hệ thống quản trị doanh nghiệp (ERP/Odoo).
+I am currently seeking a **Backend Developer Internship** where I can contribute to a real codebase and improve my skills in system design, testing, deployment and production troubleshooting.
 
-<br>
+## Featured projects
 
-### 📧 Liên hệ với tôi
-<div align="center">
-  <a href="https://github.com/PhanPhong13112005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:luuphongphan12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+### [DMS — Dormitory Management System](https://github.com/PhanPhong13112005/DMS-Solution-Base)
 
----
+Backend microservices platform for student dormitory operations.
 
-### 🔧 Ngôn ngữ & Cơ sở dữ liệu
+- Built with **ASP.NET Core 9, EF Core and SQL Server**.
+- Organized into **3 domain services with independent databases** behind an **Ocelot API Gateway**.
+- Used **RabbitMQ and MassTransit** for event-driven communication.
+- Containerized backend services and infrastructure with **Docker Compose**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,py,js,vue,mysql,git,github,docker&perline=10" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server_2025-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</div>
+### [Magic English — AI Learning Mentor](https://github.com/PhanPhong13112005/FIT4102-Project_Magic_English)
 
----
+Backend API for an English-learning application with AI-assisted vocabulary and writing feedback.
 
-### 📊 Thống kê hoạt động GitHub
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanPhong13112005&theme=react-dark&hide_border=true&area=true" />
-</div>
+- Built REST APIs using **ASP.NET Core 8, EF Core and PostgreSQL**.
+- Implemented **JWT authentication**, vocabulary management, learning streaks and achievements.
+- Integrated **Gemini AI** through `HttpClient` for vocabulary extraction and writing analysis.
+- Deployed with **Docker, Nginx and VPS infrastructure**.
 
-<br>
+### [OPM Strongest Wiki](https://github.com/PhanPhong13112005/Opm-Strongest-Wiki)
 
-<div align="center">
-  <a href="https://github.com/PhanPhong13112005">
-    <img height="180em" src="https://streak-stats.demolab.com?user=PhanPhong13112005&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-</div>
+Personal project that migrates game data from static JSON files to a structured .NET backend.
 
----
+- Applied a layered structure with **API, Application, Domain and Infrastructure** projects.
+- Built APIs with **searching, filtering, pagination and bilingual data support**.
+- Used **EF Core, PostgreSQL, Swagger and Docker**.
+- Added automated repository tests using **xUnit and EF Core InMemory**.
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/PhanPhong13112005/PhanPhong13112005/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+## Technical stack
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+**Languages:** C#, SQL, Python  
+**Backend:** ASP.NET Core Web API, Entity Framework Core, REST API, JWT, Swagger/OpenAPI, HttpClient  
+**Databases:** SQL Server, PostgreSQL, MySQL  
+**Architecture:** Microservices, Layered Architecture, API Gateway, Event-Driven Architecture  
+**Infrastructure:** Docker, Docker Compose, RabbitMQ, MassTransit, Nginx, Linux/WSL, VPS  
+**Testing & Tools:** xUnit, EF Core InMemory, Git, GitHub, Postman, Visual Studio, VS Code
+
+## Current focus
+
+- Writing unit and integration tests for ASP.NET Core APIs.
+- Improving logging, error handling and health checks.
+- Learning Redis caching and CI/CD with GitHub Actions.
+- Strengthening database design and backend system architecture.
+
+## Contact
+
+- Email: **luuphongphan12@gmail.com**
+- GitHub: **[@PhanPhong13112005](https://github.com/PhanPhong13112005)**
