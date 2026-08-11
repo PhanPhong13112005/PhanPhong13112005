@@ -2,62 +2,78 @@
 
 # Phan Lưu Phong
 
-### Thực tập sinh Backend Developer | C# · ASP.NET Core · PostgreSQL · Docker
+### Backend Developer Intern | C# · ASP.NET Core · PostgreSQL · Docker
 
-Sinh viên ngành **Công nghệ Thông tin — Trường Đại học Đại Nam** · Dự kiến tốt nghiệp: **2027**
+Sinh viên ngành **Công nghệ Thông tin — Trường Đại học Đại Nam**  
+Dự kiến tốt nghiệp: **2027** · GPA: **3.00/4.00**
 
 [![Email](https://img.shields.io/badge/Email-luuphongphan12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luuphongphan12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PhanPhong13112005-181717?style=flat-square&logo=github)](https://github.com/PhanPhong13112005)
+[![GitHub](https://img.shields.io/badge/GitHub-PhanPhong13112005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PhanPhong13112005)
 
 </div>
 
-## Giới thiệu
+## 👋 Giới thiệu
 
-Tôi là sinh viên Công nghệ Thông tin định hướng **Backend .NET**, có kinh nghiệm thực hành xây dựng REST API, thiết kế cơ sở dữ liệu quan hệ, triển khai dịch vụ bằng Docker và xử lý tích hợp giữa các thành phần backend.
+Tôi là sinh viên Công nghệ Thông tin định hướng **Backend .NET**, tập trung vào xây dựng REST API, cơ sở dữ liệu quan hệ, authentication/authorization, Docker và triển khai ứng dụng.
 
-Tôi đang tìm kiếm vị trí **Thực tập sinh Backend Developer** để tham gia vào codebase thực tế, phát triển năng lực về thiết kế hệ thống, kiểm thử, triển khai và xử lý sự cố trong môi trường production.
+Tôi đang tìm kiếm vị trí **Backend Developer Intern** để được tham gia codebase thực tế, code review và phát triển sâu hơn về thiết kế hệ thống, kiểm thử, database và vận hành backend.
 
-## Dự án nổi bật
+## 🚀 Dự án nổi bật
 
-### [DMS — Hệ thống Quản lý Ký túc xá](https://github.com/PhanPhong13112005/DMS-Solution-Base)
+### 🌐 [OPM Strongest Wiki](https://github.com/PhanPhong13112005/Opm-Strongest-Wiki)
+**Dự án cá nhân · 07/2026 – Hiện tại**  
+🔗 Production: [opmwiki.app](https://opmwiki.app)
 
-Hệ thống backend theo kiến trúc microservices phục vụ các nghiệp vụ quản lý ký túc xá sinh viên.
+Wiki song ngữ Việt/Anh dành cho cộng đồng One Punch Man: The Strongest, được triển khai và vận hành trên môi trường production.
 
-- Phát triển bằng **ASP.NET Core 9, Entity Framework Core và SQL Server**.
-- Tổ chức thành **3 domain service với cơ sở dữ liệu độc lập**, giao tiếp qua **Ocelot API Gateway**.
-- Sử dụng **RabbitMQ và MassTransit** cho các luồng giao tiếp bất đồng bộ theo hướng event-driven.
-- Đóng gói backend và hạ tầng bằng **Docker Compose**.
+- Xây dựng backend bằng **ASP.NET Core, Entity Framework Core và PostgreSQL**, kết hợp **Node.js Vercel Functions + Neon PostgreSQL** cho API production.
+- Triển khai **JWT Authentication, phân quyền User/Staff/Admin**, Admin CRUD, bình luận sự kiện, diễn đàn và các API cộng đồng.
+- Phát triển API hỗ trợ **tìm kiếm, lọc, phân trang, dữ liệu song ngữ**, health check và cơ chế JSON fallback khi API/database gặp sự cố.
+- Viết unit/integration test bằng **xUnit, EF Core InMemory, PGlite và Playwright**.
+- Triển khai production trên **Vercel**, đạt **177 visitors và 1.826 page views trong 30 ngày gần nhất** theo Vercel Analytics.
 
-### [Magic English — Trợ lý Học tiếng Anh tích hợp AI](https://github.com/PhanPhong13112005/FIT4102-Project_Magic_English)
+**Tech:** ASP.NET Core · Node.js · EF Core · PostgreSQL · Neon · JWT · Docker · Vercel · xUnit · Playwright
 
-Backend API cho ứng dụng học tiếng Anh, hỗ trợ quản lý từ vựng và phản hồi bài viết bằng AI.
+---
 
-- Xây dựng REST API với **ASP.NET Core 8, Entity Framework Core và PostgreSQL**.
-- Triển khai **JWT Authentication**, quản lý từ vựng, streak học tập và hệ thống thành tích.
-- Tích hợp **Gemini AI** thông qua `HttpClient` để trích xuất dữ liệu từ vựng và phân tích bài viết.
-- Triển khai bằng **Docker, Nginx và VPS**.
+### 🏢 [DMS — Hệ thống Quản lý Ký túc xá](https://github.com/PhanPhong13112005/DMS-Solution-Base)
+**Backend & Integration Developer · Dự án nhóm · 2026**
 
-### [OPM Strongest Wiki](https://github.com/PhanPhong13112005/Opm-Strongest-Wiki)
+Hệ thống quản lý ký túc xá được xây dựng theo kiến trúc microservices.
 
-Dự án cá nhân chuyển dữ liệu game từ JSON tĩnh sang một hệ thống backend .NET có cấu trúc rõ ràng.
+- Phát triển backend với **ASP.NET Core 9, EF Core và SQL Server**.
+- Hệ thống gồm **3 domain service với cơ sở dữ liệu độc lập**, kết nối qua **Ocelot API Gateway**.
+- Tích hợp REST API cho các nghiệp vụ đăng ký ở, hợp đồng, chuyển phòng, hóa đơn, thanh toán và điện nước.
+- Sử dụng **RabbitMQ + MassTransit** cho giao tiếp bất đồng bộ và **Docker Compose** để đóng gói hệ thống.
+- Xử lý các vấn đề về payload, mapping và tích hợp dữ liệu giữa các service.
 
-- Tổ chức backend theo 4 project: **API, Application, Domain và Infrastructure**.
-- Xây dựng API hỗ trợ **tìm kiếm, lọc, phân trang và dữ liệu song ngữ Việt–Anh**.
-- Sử dụng **Entity Framework Core, PostgreSQL, Swagger và Docker**.
-- Viết kiểm thử repository bằng **xUnit và EF Core InMemory**.
+**Tech:** ASP.NET Core · SQL Server · Ocelot · RabbitMQ · MassTransit · Docker
 
-## Công nghệ sử dụng
+---
 
-**Ngôn ngữ:** C#, SQL, Python  
-**Backend:** ASP.NET Core Web API, Entity Framework Core, REST API, JWT, Swagger/OpenAPI, HttpClient  
-**Cơ sở dữ liệu:** SQL Server, PostgreSQL, MySQL  
-**Kiến trúc:** Microservices, Layered Architecture, API Gateway, Event-Driven Architecture  
-**Hạ tầng:** Docker, Docker Compose, RabbitMQ, MassTransit, Nginx, Linux/WSL, VPS  
-**Kiểm thử & Công cụ:** xUnit, EF Core InMemory, Git, GitHub, Postman
+### 📚 [Magic English — Trợ lý Học tiếng Anh tích hợp AI](https://github.com/PhanPhong13112005/FIT4102-Project_Magic_English)
+**Backend Developer · Dự án nhóm · 2026**
 
-## Mục tiêu phát triển
+Ứng dụng học tiếng Anh với các chức năng quản lý từ vựng, theo dõi quá trình học và phản hồi bài viết bằng AI.
 
-- Nâng cao kỹ năng viết Unit Test và Integration Test cho ASP.NET Core API.
-- Hoàn thiện logging, error handling và health check cho backend service.
-- Áp dụng Redis caching và CI/CD bằng GitHub Actions vào dự án thực tế.
-- Phát triển sâu hơn về thiết kế cơ sở dữ liệu và kiến trúc hệ thống backend.
+- Xây dựng REST API cho **authentication, vocabulary management, writing feedback, learning streaks, achievements và health checks**.
+- Tích hợp **Gemini API qua HttpClient**, triển khai input validation, JWT Authentication và centralized error handling.
+- Sử dụng **EF Core + PostgreSQL** và triển khai backend bằng **Docker Compose, Nginx trên Linux VPS**.
+- Xử lý các vấn đề liên quan tới database connectivity, Swagger và production routing.
+
+**Tech:** ASP.NET Core · EF Core · PostgreSQL · JWT · Gemini API · Docker · Nginx
+
+## 🛠️ Công nghệ sử dụng
+
+**Ngôn ngữ:** C#, SQL, JavaScript, Python  
+**Backend:** ASP.NET Core Web API, Entity Framework Core, REST API, Node.js, JWT, Swagger/OpenAPI, HttpClient  
+**Cơ sở dữ liệu:** PostgreSQL, Neon PostgreSQL, SQL Server, MySQL  
+**Kiến trúc & tích hợp:** Layered Architecture, Microservices, API Gateway, Event-Driven Architecture  
+**Hạ tầng:** Docker, Docker Compose, RabbitMQ, MassTransit, Nginx, Linux/WSL, VPS, Vercel  
+**Kiểm thử:** xUnit, EF Core InMemory, PGlite, Playwright  
+**Công cụ:** Git, GitHub, Postman
+
+## 📫 Liên hệ
+
+- **Email:** luuphongphan12@gmail.com
+- **GitHub:** [github.com/PhanPhong13112005](https://github.com/PhanPhong13112005)
